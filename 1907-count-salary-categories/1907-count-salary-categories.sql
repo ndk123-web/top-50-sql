@@ -14,9 +14,9 @@ WITH x AS (
     u AS (
         SELECT 'Low Salary' AS category
         UNION ALL
-        SELECT 'Average Salary'
+        SELECT 'Average Salary' AS category
         UNION ALL
-        SELECT 'High Salary' 
+        SELECT 'High Salary' AS category
     )
 
 SELECT 
