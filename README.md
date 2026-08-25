@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1164-product-price-at-a-given-date](https://github.com/ndk123-web/top-50-sql/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/ndk123-web/top-50-sql/tree/master/1204-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
