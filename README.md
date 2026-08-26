@@ -18,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/ndk123-web/top-50-sql/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/ndk123-web/top-50-sql/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/ndk123-web/top-50-sql/tree/master/1667-fix-names-in-a-table) |
+| [1729-find-followers-count](https://github.com/ndk123-web/top-50-sql/tree/master/1729-find-followers-count) |
 | [1907-count-salary-categories](https://github.com/ndk123-web/top-50-sql/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
