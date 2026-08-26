@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ndk123-web/top-50-sql/tree/master/0176-second-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/ndk123-web/top-50-sql/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ndk123-web/top-50-sql/tree/master/0196-delete-duplicate-emails) |
 | [0626-exchange-seats](https://github.com/ndk123-web/top-50-sql/tree/master/0626-exchange-seats) |
 | [1164-product-price-at-a-given-date](https://github.com/ndk123-web/top-50-sql/tree/master/1164-product-price-at-a-given-date) |
