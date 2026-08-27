@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/ndk123-web/top-50-sql/tree/master/1075-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/ndk123-web/top-50-sql/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/ndk123-web/top-50-sql/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](https://github.com/ndk123-web/top-50-sql/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/ndk123-web/top-50-sql/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ndk123-web/top-50-sql/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/ndk123-web/top-50-sql/tree/master/1321-restaurant-growth) |
