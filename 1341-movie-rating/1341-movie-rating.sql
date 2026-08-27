@@ -22,7 +22,7 @@ WITH x AS (
             AVG(m.rating) as rt
         FROM
             MovieRating as m
-        WHERE m.created_at >= "2020-02-01" AND m.created_at <= "2020-02-28"
+        WHERE m.created_at >= "2020-02-01" AND m.created_at <= "2020-02-29"
         GROUP BY m.movie_id
     ),
 
