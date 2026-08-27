@@ -31,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/ndk123-web/top-50-sql/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ndk123-web/top-50-sql/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/ndk123-web/top-50-sql/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/ndk123-web/top-50-sql/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
