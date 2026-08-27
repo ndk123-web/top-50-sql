@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/ndk123-web/top-50-sql/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/ndk123-web/top-50-sql/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/ndk123-web/top-50-sql/tree/master/0585-investments-in-2016) |
+| [0595-big-countries](https://github.com/ndk123-web/top-50-sql/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ndk123-web/top-50-sql/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/ndk123-web/top-50-sql/tree/master/0626-exchange-seats) |
 | [1164-product-price-at-a-given-date](https://github.com/ndk123-web/top-50-sql/tree/master/1164-product-price-at-a-given-date) |
