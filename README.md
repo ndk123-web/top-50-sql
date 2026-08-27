@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/ndk123-web/top-50-sql/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/ndk123-web/top-50-sql/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/ndk123-web/top-50-sql/tree/master/1527-patients-with-a-condition) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/ndk123-web/top-50-sql/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/ndk123-web/top-50-sql/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/ndk123-web/top-50-sql/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/ndk123-web/top-50-sql/tree/master/1729-find-followers-count) |
